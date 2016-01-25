@@ -6,7 +6,10 @@ Telnet is an application layer protocal used on the internet or local area netwo
 User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP).
 [For more information: https://en.wikipedia.org/wiki/Telnet]
 Telnet is insecure because the communication is not encrypted, your password and all other data will be transmitted as clear text. If possible avoid telnet.
-In this case i am figuring out all possible ways to access a remote pc. So telnet ... here we go
+In this case i am figuring out all possible ways to access a remote pc. So ... telnet here we go
+
+# Using secure shell [ssh]
+
 
 
 

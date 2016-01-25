@@ -1,5 +1,5 @@
-[In this case i am using ubuntu]
-* HOW TO ENABLE TELNET IN UBUNTU
+[In this case i am using Debian]
+* HOW TO ENABLE TELNET IN Debian
 
 Open the terminal [ctrl + alt + t]
 Run the following commands
